@@ -34,6 +34,16 @@ Use it in pi with:
 /skill:handshake Stress-test this feature plan...
 ```
 
+## Install with the skills CLI
+
+For harnesses that use the open `skills` CLI:
+
+```bash
+npx skills add mertdeveci5/handshake
+```
+
+Skills.sh ranks skills from anonymous `skills` CLI install telemetry. There does not appear to be a separate manual submission flow.
+
 ## Use with other Agent Skills-compatible harnesses
 
 The skill lives at:
