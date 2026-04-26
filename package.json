@@ -1,0 +1,33 @@
+{
+  "name": "handshake-skill",
+  "version": "1.0.0",
+  "description": "Agent Skill for relentlessly stress-testing plans until shared understanding.",
+  "keywords": [
+    "agent-skill",
+    "skills",
+    "pi-package",
+    "planning",
+    "architecture",
+    "product"
+  ],
+  "license": "MIT",
+  "author": "Mert Deveci",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertdeveci5/handshake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mertdeveci5/handshake/issues"
+  },
+  "homepage": "https://github.com/mertdeveci5/handshake#readme",
+  "files": [
+    "skills",
+    "README.md",
+    "LICENSE"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
